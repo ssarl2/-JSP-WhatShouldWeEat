@@ -3,14 +3,14 @@
 ### Recommit<br>
 <ul>
 <li>This project was the team project.</li>
-<li>We did this project at the Dongseo University.</li>
+<li>We did this project at the Dongseo University on 09/2018 - 12/2018.</li>
 <br>
 <li>This project has some databases which are necessary data of food and about temporary users.</li>
 <li>The database is based on MySQL and we used MySQL Workbench tools.</li>
 <br>
 <li>Also, It has some extra files.</li>
-<li>UML of this project</li>
-<li>PPT file of this project in Korean</li>
+<li>UML of this project.</li>
+<li>PPT file of this project in Korean.</li>
 </ul>
 
 ---------------------------------------------------------------------------------------
@@ -31,3 +31,4 @@ Members :<br>
 
 박우현(apply CSS and give a presentation)<br>
 
+![Screenshot](https://user-images.githubusercontent.com/37391569/68544379-417a4d00-03cb-11ea-9d17-2f4a34cb6ac4.JPG)
