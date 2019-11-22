@@ -1,3 +1,13 @@
+![Screenshot](https://user-images.githubusercontent.com/37391569/68544379-417a4d00-03cb-11ea-9d17-2f4a34cb6ac4.JPG)
+<br>
+<br>
+<br>
+Here demonstrations on youtube
+<br>
+[![demonstrations](https://img.youtube.com/vi/qnrUlDF8amw/0.jpg)](https://www.youtube.com/watch?v=qnrUlDF8amw)
+<br>
+<br>
+<br>
 # 10.11.19 fixed the application
 
 ### Recommit<br>
@@ -30,11 +40,3 @@ Members :<br>
 박현빈(Me)(code boards and make UML)<br>
 
 박우현(apply CSS and give a presentation)<br>
-
-![Screenshot](https://user-images.githubusercontent.com/37391569/68544379-417a4d00-03cb-11ea-9d17-2f4a34cb6ac4.JPG)
-<br>
-<br>
-<br>
-Here demonstrations on youtube
-<br>
-[![demonstrations](https://img.youtube.com/vi/qnrUlDF8amw/0.jpg)](https://www.youtube.com/watch?v=qnrUlDF8amw)
