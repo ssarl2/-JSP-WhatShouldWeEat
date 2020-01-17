@@ -4,7 +4,18 @@ What platform, languages were used and versions related to them
 # How to install or use this
 
 # It needs to place structure of this page here by graph
-## ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+## Class Diagram
+![class Diagram](https://user-images.githubusercontent.com/37391569/72594819-c34aa180-394b-11ea-9916-9568bf74288d.png)
+## Sequence Diagram Board
+![sequence Diagram Board](https://user-images.githubusercontent.com/37391569/72594828-c6459200-394b-11ea-8258-2382709efdc6.png)
+## Sequence Diagram Food
+![sequence Diagram Food](https://user-images.githubusercontent.com/37391569/72594829-c6459200-394b-11ea-8f76-deedf10b64e6.png)
+## Sequence Diagram Member
+![sequence Diagram Member](https://user-images.githubusercontent.com/37391569/72594830-c6de2880-394b-11ea-872a-05b2dcfe13ef.png)
+## Usecase Diagram
+![Usecase Diagram](https://user-images.githubusercontent.com/37391569/72594840-c9d91900-394b-11ea-8a8b-1352e7967fb4.png)
+
+
 
 ![Screenshot](https://user-images.githubusercontent.com/37391569/68544379-417a4d00-03cb-11ea-9d17-2f4a34cb6ac4.JPG)
 <br>
