@@ -1,0 +1,1 @@
+Run As(서버의 JVM 설정 창)에서  --add-modules java.activation 입력
