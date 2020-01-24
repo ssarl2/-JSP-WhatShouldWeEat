@@ -1,12 +1,47 @@
+# Operated environment
+windows 10, 64bit<br>
+
 # Needs
-What platform, languages were used and versions related to them
 tomcat v9.0<br>
-eclipse ee<br>
+: https://tomcat.apache.org/download-90.cgi - 32-bit/64-bit Windows Service Installer<br>
+<br>
 MySQL<br>
-JDK1.8...<br>
+: https://dev.mysql.com/downloads/installer/ - Windows (x86, 32-bit), MSI Installer<br>
+<br>
+mysql-connector-java-8.0.19.jar(included)<br>
+<br>
+eclipse ee 2019-12<br>
+: https://www.eclipse.org/downloads/packages/release/neon/3/eclipse-ide-java-ee-developers
+<br>
+jdk1.8.0_241<br>
+: https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html - jdk-8u241-windows-x64.exe<br>
+<br>
+bootstrap v4.1.3(included)<br>
+<br>
+dbcp-1.4.jar(included)<br>
+<br>
+pool-1.6.jar<br>
+<br>
+MySQL Workbench(optional)<br>
+: https://dev.mysql.com/downloads/workbench/ - Windows (x86, 64-bit), MSI Installer<br>
+<br>
 
 
 # How to install or use this
+1. Install jdk, oracle database, tomcat, eclipse ee<br>
+1-1.<br>
+Tomcat admin port : 8005<br>
+HTTP/1.1 : 8090<br>
+AJP/1.3 : 8009<br>
+2. File - Import - General - Existing Projects into Workspace - Choose directory -JSP-WhatShouldWeEat - Finish
+3. Create a new server - Apache - Tomcat v9.0 Server - Choose your tomcat directory (like C:\Program Files\Apache Software Foundation\Tomcat 9.0) - Next - Add WhatFood - Finish
+4. Set up your environment properly such as jre, tomcat in Project(WhatFood) - Java Build Path<br>
+4. Modify some source for database<br>
+4-1. Project Explorer - Tomcat v9.0.. - server - change port "-1" to "8005" next to "shutdown"<br>
+4-2. Project Explorer - Tomcat v9.0.. - context - change your database information<br>
+5. Create tables with 'MySQL Workbench' or 'on cmd' by WhatFood.sql<br>
+6. Open WebContent - FoodMain.jsp - Run
+
 
 ![Screenshot](https://user-images.githubusercontent.com/37391569/68544379-417a4d00-03cb-11ea-9d17-2f4a34cb6ac4.JPG)
 <br>
